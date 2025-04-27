@@ -1,0 +1,36 @@
+* {
+    background: black;
+  }
+
+  div {
+    color: aliceblue;
+    width: 50%;
+    margin-left:25% ;
+    margin-top: 100px;
+    text-align: center;
+    align-content: center;
+  }
+  img {
+    border:5px solid aliceblue;
+    width: 98%;
+    
+  }
+
+  h1 {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-transform: uppercase;
+  }
+  #n {
+    color: #FF90BB;
+    text-decoration: none;
+    font-size: smaller;
+  }
+  #c {
+    background-color: darkmagenta;
+    text-align: center;
+    align-content: center;
+    color: bisque;
+    font-size: xx-small ;
+  }
